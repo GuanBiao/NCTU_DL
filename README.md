@@ -1,5 +1,13 @@
 # NCTU DL Labs
 
+## Environment
+
+- Ubuntu 16.04 LTS
+- NVIDIA GTX 1080
+- TensorFlow 1.0
+- Python 3.5 (Lab 3 ~ Lab 6)
+- Python 2.7 (Lab7)
+
 ## Lab 3
 
 Implement NIN, all convolutional NIN and train on CIFAR-10.
@@ -60,3 +68,12 @@ Build LSTM to perform the copy task.
     <td>7%</td>
   </tr>
 </table>
+
+## Lab 7
+
+Add a hard attention mechanism to [this](https://github.com/yunjey/show-attend-and-tell) code.
+
+| Attention | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR |
+|:---------:|:------:|:------:|:------:|:------:|:------:|
+| Hard      | 63.6   | 42.0   | 28.2   | 19.3   | 19.8   |
+| Soft      | 65.3   | 43.5   | 29.2   | 19.9   | 20.5   |
