@@ -6,7 +6,8 @@
 - NVIDIA GTX 1080
 - TensorFlow 1.0
 - Python 3.5 (Lab 3 ~ Lab 6)
-- Python 2.7 (Lab7)
+- Python 2.7 (Lab 7)
+- C++ (Lab 8)
 
 ## Lab 3
 
