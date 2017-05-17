@@ -77,3 +77,9 @@ Add a hard attention mechanism to [this](https://github.com/yunjey/show-attend-a
 |:---------:|:------:|:------:|:------:|:------:|:------:|
 | Hard      | 63.6   | 42.0   | 28.2   | 19.3   | 19.8   |
 | Soft      | 65.3   | 43.5   | 29.2   | 19.9   | 20.5   |
+
+## Lab 8
+
+Build an AI to play 2048 through TD(0).
+
+After 1000K training games, the winning rate is 0.974 (averaged over 10K test games).
