@@ -5,7 +5,7 @@
 - Ubuntu 16.04 LTS
 - NVIDIA GTX 1080
 - TensorFlow 1.0
-- Python 3.5 (Lab 3 ~ Lab 6)
+- Python 3.5 (Lab 3 ~ Lab 6, Lab 9)
 - Python 2.7 (Lab 7)
 - C++ (Lab 8)
 
@@ -84,3 +84,9 @@ Add a hard attention mechanism to [this](https://github.com/yunjey/show-attend-a
 Build an AI to play 2048 through TD(0).
 
 After 1000K training games, the winning rate is 0.974 (averaged over 10K test games).
+
+## Lab 9
+
+Train a DQN to play Breakout.
+
+During training, the game score obtained by the agent could achieve 65.
