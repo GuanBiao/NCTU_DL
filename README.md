@@ -5,7 +5,7 @@
 - Ubuntu 16.04 LTS
 - NVIDIA GTX 1080
 - TensorFlow 1.0
-- Python 3.5 (Lab 3 ~ Lab 6, Lab 9)
+- Python 3.5 (Lab 3 ~ Lab 6, Lab 9, Lab 10)
 - Python 2.7 (Lab 7)
 - C++ (Lab 8)
 
@@ -90,3 +90,7 @@ After 1000K training games, the winning rate is 0.974 (averaged over 10K test ga
 Train a DQN to play Breakout.
 
 During training, the game score obtained by the agent could achieve 65.
+
+## Lab 10
+
+Apply DDPG to the pendulum problem.
