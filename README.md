@@ -5,7 +5,7 @@
 - Ubuntu 16.04 LTS
 - NVIDIA GTX 1080
 - TensorFlow 1.0
-- Python 3.5 (Lab 3 ~ Lab 6, Lab 9, Lab 10)
+- Python 3.5 (Lab 3 ~ Lab 6, Lab 9, Lab 10, Final Project)
 - Python 2.7 (Lab 7)
 - C++ (Lab 8)
 
@@ -94,3 +94,7 @@ During training, the game score obtained by the agent could achieve 65.
 ## Lab 10
 
 Apply DDPG to the pendulum problem.
+
+## Final Project
+
+Real-Time Partial Style Transfer.
